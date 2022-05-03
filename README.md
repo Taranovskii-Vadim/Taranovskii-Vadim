@@ -3,4 +3,4 @@
 <h3 align="center">Computer science student, frontend software engineer</h3>
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=prgPaslen&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prgPaslen&layout=compact)](https://github.com/prgPaslen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taranovskii-Vadim&layout=compact)](https://github.com/prgPaslen/github-readme-stats)
